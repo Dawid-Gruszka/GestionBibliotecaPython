@@ -37,6 +37,10 @@ biblioteca/
 │   ├── socio.py
 │   └── prestamo.py
 │
+│── Test/
+│   │── __init__.py
+│   └── test_biblioteca.py
+│
 ├── database.py
 ├── main.py
 └── requirements.txt
